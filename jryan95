@@ -1,0 +1,5 @@
+# login_system
+ my first login system, from scratch
+ used createcred.py/expire.py to help with concepts and to understand where to begin..
+ those both taught me new things, how to loop through a file and check a certain line for something i'm looking for,
+ and to use @property for multiple methods inside a class.
